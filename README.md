@@ -1,3 +1,9 @@
+<div align="center">
+      <img
+        src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif"
+        width="200"
+      />
+    </div>
 <h1 align="center">Hi 👋, I'm Abel Villaseca</h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
