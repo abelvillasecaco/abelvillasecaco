@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Abel Villaseca</h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
-- 🌱 I’m currently learning **Angular and React**
+- ✌🏼 I'm currently a full-stack front-end developer. **My favorite frameworks are Astro and Angular**.
 
 - 👯 I’m looking to collaborate on **projects that make the developer community bigger**
 
